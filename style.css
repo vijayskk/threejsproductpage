@@ -332,10 +332,10 @@
 		opacity: 0;
 	}
 	.hamburger.active .ham:nth-child(1){
-		transform: translateY(7px)rotate(45deg);
+		transform: translateY(7px) rotate(45deg);
 	}
 	.hamburger.active .ham:nth-child(3){
-		transform: translateY(-7px)rotate(-45deg);
+		transform: translateY(-7px) rotate(-45deg);
 	}
 	.nav{
 		position: relative;
